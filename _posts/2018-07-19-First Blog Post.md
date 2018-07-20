@@ -1,15 +1,22 @@
 ---
-title: "First Blog Post"
+title: "How This Blog is Made"
 categories:
-  - python
+  - jekyll
+
 tags:
   - blog
-  - jekyll
+  - Jekyll
   - website
   - personal website
   - markup
   - introduction
 ---
+Blogs are the platform  were people write about their experiences, knowledge and so and so. When I decided to start a blog the parameters which I considered most importantly was speed security and cost. [Jekyll](https://jekyllrb.com) was the perfect solution for that.
 
- This is my first blog post since I cloned and edited this jekyll blog.i am newbie to the world of jekyl and blogging using a static site generator.It seems Easier to use jekyll since it dosent have an serveer or database.
- and sinse the files are genarated statically it makes the site relly faster.
+[Jekyll](https://jekyllrb.com) is basically a static site generator. It doesn't have a database or an admin panel ,so I  don't have to bother about the database security and that sort of things.
+
+Unlike wordpress or other bloging platforms jekyll docent use lot of plugins.
+Since there are minimum number of plugins used sites are loaded faster.
+
+Jekyll doesn't make any database call .all contents are served statically.
+using static files makes the sites faster.
